@@ -1,4 +1,4 @@
-# Tic tac toe - React Native
+# Mobile Game - React Native
 
 ## Índice
 
