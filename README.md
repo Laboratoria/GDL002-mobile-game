@@ -234,7 +234,6 @@ expo publish
 
 * [React Native](https://facebook.github.io/react-native/)
 * [Expo](https://expo.io/)
-* [Desarrollo Más Fácil React Native con Expo - Evato Tuts+](https://code.tutsplus.com/es/tutorials/easier-react-native-development-with-expo--cms-30546)
 * [Android Studio](https://developer.android.com/studio/)
 * [Android Emulator](https://developer.android.com/studio/run/emulator)
 * [Xcode](https://developer.apple.com/xcode/)
